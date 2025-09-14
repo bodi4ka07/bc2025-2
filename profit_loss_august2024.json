@@ -1,1 +1,1597 @@
-<error>invalid request</error>
+<!DOCTYPE html>
+<html lang="uk">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Не знайдено</title>
+            <base href="">
+    <link rel="canonical" href="">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <!-- SEO meta -->
+                                                        
+        
+        <link href="/frontend/dist/css/2534.18a1d078b6c6b6ff37b0.css" rel="stylesheet" type="text/css" />
+        <link href="/frontend/dist/css/index.721da573938a621e5335.css" rel="stylesheet" type="text/css" />
+    
+        <link rel="icon" type="image/x-icon" href="/frontend/icon/favicon.ico?v=14" />
+        <link rel="icon" type="image/png" sizes="96x96" href="/frontend/icon/favicon-96x96.png?v=14">
+        <link rel="icon" type="image/png" sizes="48x48" href="/frontend/icon/favicon-48x48.png?v=14">
+        <link rel="icon" type="image/png" sizes="32x32" href="/frontend/icon/favicon-32x32.png?v=14">
+        <link rel="icon" type="image/png" sizes="16x16" href="/frontend/icon/favicon-16x16.png?v=14">
+        <link rel="apple-touch-icon" sizes="57x57" href="/frontend/icon/apple-icon-57x57.png?v=14/">
+        <link rel="apple-touch-icon" sizes="60x60" href="/frontend/icon/apple-icon-60x60.png?v=14/">
+        <link rel="apple-touch-icon" sizes="72x72" href="/frontend/icon/apple-icon-72x72.png?v=14/">
+        <link rel="apple-touch-icon" sizes="76x76" href="/frontend/icon/apple-icon-76x76.png?v=14/">
+        <link rel="apple-touch-icon" sizes="114x114" href="/frontend/icon/apple-icon-114x114.png?v=14">
+        <link rel="apple-touch-icon" sizes="120x120" href="/frontend/icon/apple-icon-120x120.png?v=14">
+        <link rel="apple-touch-icon" sizes="144x144" href="/frontend/icon/apple-icon-144x144.png?v=14">
+        <link rel="apple-touch-icon" sizes="152x152" href="/frontend/icon/apple-icon-152x152.png?v=14">
+        <link rel="apple-touch-icon" sizes="180x180" href="/frontend/icon/apple-icon-180x180.png?v=14">
+        <link rel="apple-touch-icon" sizes="180x180" href="/frontend/icon/apple-icon-precomposed.png?v=14">
+        <link rel="mask-icon" href="/frontend/icon/safari-pinned-tab.svg?v=14" color="#007b47">
+        <link rel="manifest" href="/frontend/icon/manifest.json?v=14"> 
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="frontend/icon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJX0SQ6KHR"></script>
+        <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-XJX0SQ6KHR'); </script>
+        </head>
+    
+        <body class=" has-menu-drawer">
+            
+    <form id="special-form">
+        <div class="container">
+            <div class="chx">
+                <label>
+                    <input type="radio" name="color" value="theme-black">
+                    <span></span>
+                </label>
+            </div>
+            <div class="chx">
+                <label>
+                    <input type="radio" name="color" value="theme-white">
+                    <span></span>
+                </label>
+            </div>
+            <div class="chx">
+                <label>
+                    <input type="radio" name="font" value="" checked>
+                    <span>A1</span>
+                </label>
+            </div>
+            <div class="chx">
+                <label>
+                    <input type="radio" name="font" value="font-size-lg">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div class="chx">
+                <label>
+                    <input type="radio" name="font" value="font-size-xl">
+                    <span>A3</span>
+                </label>
+            </div>
+            <div class="right">
+                <div class="btn btn-lg btn-tr"><i class="fa fa-eye"></i>Звичайна версія сайту</div>
+            </div>
+        </div>
+    </form>
+    <header>
+
+        <a
+        href="#mainContent"
+        class="btn btn-primary btn-tr skip-to-content"
+        >Перейти до вмісту <i class="fa fa-angle-right"></i></a>
+
+        <div class="main-menu">
+            <div id="main-menu-bg" class="submenu-wrapper">
+                <div class="main-menu-bg" style="background-color:#fff;height:100%;box-shadow: 0 3px 8px 0 rgba(0,0,0,.2),0 2px 10px 0 rgba(0,0,0,.19);"></div>
+            </div>
+        </div>
+
+        <div class="navbar white-bg shadow-2">
+            <div class="container fit">
+                <div class="navbar-container">
+                    <a href="/" class="logo block">
+                                                    <img src="/frontend/content/logo.png?v=14" alt="Logo" class="show-md-over">
+                                                <img src="/frontend/content/logo-m.png?v=14" alt="Logo" class="show-sm-under">
+                    </a>
+                    <div class="navbar-wrapper">
+                        <a id="menu-drawer-toggle" class="menu-open-bar show-md-under ripple">
+                            <i class="fa fa-bars"></i>
+                        </a>
+
+                        <div class="navbar-menu">
+                            <nav class="topnav" aria-label="Верхнє меню">
+                                <ul class="nav nav-inline">
+                                                                                        <li class="">
+            <a class="ripple" href="/ua/about">
+                <i class="fa fa-bank"></i>
+                <span>
+                                            Про Національний банк
+                                    </span>
+            </a>
+        </li>
+                    <li class="">
+            <a class="ripple" href="/ua/consumer-protection">
+                <i class="fa" style="vertical-align: text-bottom">
+                    <svg viewBox="0 0 640 512" style="fill: #007b47; height:0.8rem; width: 1rem;">
+                    <path fill="currentColor" d="M622.3 271.1l-115.2-45c-4.1-1.6-12.6-3.7-22.2 0l-115.2 45c-10.7 4.2-17.7 14-17.7 24.9 0 111.6 68.7 188.8 132.9 213.9 9.6 3.7 18 1.6 22.2 0C558.4 489.9 640 420.5 640 296c0-10.9-7-20.7-17.7-24.9zM496 462.4V273.3l95.5 37.3c-5.6 87.1-60.9 135.4-95.5 151.8zM224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm96 40c0-2.5.8-4.8 1.1-7.2-2.5-.1-4.9-.8-7.5-.8h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c6.8 0 13.3-1.5 19.2-4-54-42.9-99.2-116.7-99.2-212z"></path>
+                    </svg>
+                </i>
+                <span>
+                                            Захист прав споживачів
+                                    </span>
+            </a>
+        </li>
+    
+<li>
+    <a role="button" class="ripple special-btn" href="javascript:special()" aria-haspopup="true" aria-label="Налаштування доступності"  aria-expanded="false">
+        <i class="fa fa-eye" style="vertical-align: text-bottom"></i>
+        <span>Налаштування доступності</span>
+    </a>
+    <form id="special-form">
+        <div class="container">
+            <fieldset role="radiogroup" style="display: contents">
+                <legend class="sr-only">Оберіть кольорову схему</legend>
+                <div class="chx">
+                    <label>
+                        <input type="radio" name="color" class="sr-only" value="theme-contrast" checked>
+                        <span><span class="sr-only">Контрастна тема</span></span>
+                    </label>
+                </div>
+                <div class="chx">
+                    <label>
+                        <input type="radio" name="color" class="sr-only" value="theme-black">
+                        <span><span class="sr-only">Темна тема</span></span>
+                    </label>
+                </div>
+                <div class="chx">
+                    <label>
+                        <input type="radio" name="color" class="sr-only" value="theme-white">
+                        <span><span class="sr-only">Світла тема</span></span>
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset role="radiogroup" style="display: contents">
+                <legend class="sr-only">Оберіть розмір шрифта</legend>
+                <div class="chx">
+                    <label>
+                        <input type="radio" name="font" class="sr-only" value="" checked>
+                        <span><span class="sr-only">Стандартний розмір шрифта</span><span>A1</span></span>
+                    </label>
+                </div>
+                <div class="chx">
+                    <label>
+                        <input type="radio" name="font" class="sr-only" value="font-size-lg">
+                        <span><span class="sr-only">Збільшений розмір шрифта</span><span>A2</span></span>
+                    </label>
+                </div>
+                <div class="chx">
+                    <label>
+                        <input type="radio" name="font" class="sr-only" value="font-size-xl">
+                        <span><span class="sr-only">Дуже великий розмір шрифта</span><span>A3</span></span>
+                    </label>
+                </div>
+            </fieldset>
+            <div class="right">
+                <a class="btn btn-lg btn-tr" role="button" tabindex="0" href="javascript:specialClose()"><i
+                            class="fa fa-eye" style="font-size: inherit"></i>Звичайна версія сайту</a>
+            </div>
+        </div>
+    </form>
+</li>
+
+
+                                                            <li>
+    <nav id="langSwitcher">
+        <ul>
+            <li class="tm_lang active">
+                <a href="#" id="currentLang" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Мова інтерфейсу Українська</span><span aria-hidden="true">Укр</span></a>
+            </li>
+            <li class="tm_lang visually-hidden">
+                                                            <a lang="en" tabindex="-1" role="button" href="https://bank.gov.ua/en/NBU_IncomeExpensesBanks?date=202408&amp;json&amp;time_period=m"><span class="sr-only">Мова інтерфейсу English</span><span aria-hidden="true">Eng</span></a>
+                                                </li>
+        </ul>
+    </nav>
+</li>
+
+                                </ul>
+                            </nav>
+                            <div class="show-lg-over">
+                                <nav class="mainnav" aria-label="nav.meu.label">
+                                    <ul id="desktop-menu" class="nav nav-inline">
+                                                                                                                                                                
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Монетарна політика"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-2"
+        >
+                            Монетарна політика
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-2">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/monetary"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Монетарна політика<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/monetary/about">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Про монетарну політику
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/monetary/tools">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Інструменти монетарної політики
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/monetary/archive-rish">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Облікова ставка Національного банку
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/monetary/stages">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Як ухвалюються рішення з монетарної політики
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/monetary/schedule">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Графік засідань і основних публікацій з монетарної політики
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/monetary/report">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Інфляційний звіт
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/natsionalniy-bank-ukrayini-zberig-oblikovu-stavku-na-rivni-155-21617" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_Banner-Oblikova-stavka_09-2025.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_Banner-Oblikova-stavka_09-2025.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>11 вер. 2025 14:00</time>
+                                                                    </div>
+                                <p class="title">Національний банк України зберіг облікову ставку на рівні 15,5%</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Фінансова стабільність"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-3"
+        >
+                            Фінансова стабільність
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-3">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/stability"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Фінансова стабільність<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/stability/about">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Про фінансову стабільність
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/stability/report">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Звіт про фінансову стабільність
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/stability/macro">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Макропруденційна політика
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/stability/radafinstab">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Рада з фінансової стабільності
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/stability/mortgage">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Про іпотечне кредитування
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/banki-dedali-shvidshe-naroschuyut-kredituvannya-biznesu-ta-naselennya-intensivno-konkuruyuchi-za-yakisnih-pozichalnikiv-ta-zberigayuchi-dostupnist-kreditiv--zvit-pro-finansovu-stabilnist-21097" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_zvit-finstabilnist_ua.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_zvit-finstabilnist_ua.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>17 черв. 2025 12:03</time>
+                                                                    </div>
+                                <p class="title">Банки дедалі швидше нарощують кредитування бізнесу та населення, інтенсивно конкуруючи за якісних позичальників та зберігаючи доступність кредитів – Звіт про фінансову стабільність</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Нагляд"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-4"
+        >
+                            Нагляд
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-4">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/supervision"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Нагляд<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/supervision/about">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Банківський нагляд
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/registration">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Ліцензування банків
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/licensing-nonbanking">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Ліцензування небанківських установ
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/payment-services">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Авторизація учасників платіжного ринку
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/nonbanks">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Нагляд за ринком небанківських фінансових послуг
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/supervision/regulation-nonbank-fs-market">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Регулювання ринку небанківських фінансових послуг
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/reorganizat-liquidat">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Реорганізація, припинення та ліквідація
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/monitoring">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Фінансовий моніторинг
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/suptech-regtech">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Впровадження cуптех та регтех
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/supervision/sandbox-nbu">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Регуляторна платформа
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/natsionalniy-bank-vidnovlyuye-okremi-vimogi-schodo-otsinki-bankami-kreditnogo-riziku-pidgotovki-planiv-vidnovlennya-diyalnosti-pobudovi-sistemi-upravlinnya-rizikami" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_Ofitsiino-2025-05-07.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_Ofitsiino-2025-05-07.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>7 трав. 2025 18:40</time>
+                                                                    </div>
+                                <p class="title">Національний банк відновлює окремі вимоги щодо оцінки банками кредитного ризику, підготовки планів відновлення діяльності, побудови системи управління ризиками</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Платежі та розрахунки"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-5"
+        >
+                            Платежі та розрахунки
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-5">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/payments"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Платежі та розрахунки<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/payments/sep">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Система електронних платежів
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/nocash">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Безготівкові розрахунки
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/oversite">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Оверсайт інфраструктур фінансового ринку
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/prostir">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            НПС &quot;ПРОСТІР&quot;
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/project-iso20022">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Упровадження стандарту ISO 20022
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/payments/ips">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Миттєві платежі
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/use-qr">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            QR-код для передавання реквізитів
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/e-hryvnia">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Е-гривня
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/payments/open-banking">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Відкритий банкінг
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/bezgotivkovi-rozrahunki-u-2024-rotsi-suttyevo-perevajali-sered-operatsiy-z-platijnimi-kartkami" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_PC_2025-03-03.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_PC_2025-03-03.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>3 бер. 2025 12:45</time>
+                                                                    </div>
+                                <p class="title">Безготівкові розрахунки у 2024 році суттєво переважали серед операцій з платіжними картками</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Фінансові ринки"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-6"
+        >
+                            Фінансові ринки
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-6">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/markets"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Фінансові ринки<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/markets/about">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Про фінансові ринки
+                                                                    </a>
+                                                                    <ul>
+                                                                                                                    <li>
+                                            <a class="ripple" href="/ua/markets/about/mmcg">
+                                                <i class="fa fa-angle-right"></i>
+                                                                                                    Контактна група грошового та валютного ринків
+                                                                                            </a>
+                                        </li>
+                                                                        </ul>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/markets/money-market">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Грошовий ринок
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/markets/ovdp">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Ринок капіталів
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/markets/currency-market">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Валютний ринок
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/markets/liberalization">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Валютні обмеження та курсова політика
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/markets/international-reserves-allinfo">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Міжнародні резерви
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/nbu-vprovadjuye-chergoviy-paket-pomyakshennya-valyutnih-obmejen" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_Valyutni_obmezhennya_ua_2025-08-05.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_Valyutni_obmezhennya_ua_2025-08-05.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>5 серп. 2025 22:05</time>
+                                                                    </div>
+                                <p class="title">НБУ впроваджує черговий пакет пом&#039;якшення валютних обмежень</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Статистика"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-7"
+        >
+                            Статистика
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-7">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/statistic"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Статистика<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/statistic/nbustatistic">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Статистика Національного банку
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/statistic/nbureport">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Організація статистичної звітності
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/statistic/nbusurvey">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Кон&#039;юнктурні опитування
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/statistic/macro-indicators">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Макроекономічні показники
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/statistic/sdds">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Спеціальний стандарт поширення даних
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/statistic/sector-financial">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Статистика фінансового сектору
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/statistic/sector-external">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Статистика зовнішнього сектору
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/statistic/supervision-statist">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Наглядова статистика
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/mijnarodni-rezervi-stanovili-460-mlrd-dol-ssha-za-pidsumkami-serpnya" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_reservy_01-09-2025.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_reservy_01-09-2025.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>4 вер. 2025 13:20</time>
+                                                                    </div>
+                                <p class="title">Міжнародні резерви становили 46,0 млрд дол. США за підсумками серпня</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Гривня"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-8"
+        >
+                            Гривня
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-8">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/uah"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Гривня<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/uah/obig-banknote">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Про банкноти
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/uah/obig-coin">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Про монети
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/uah/uah-history">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Історія української гривні
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/uah/numismatic-products">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Нумізматична продукція
+                                                                    </a>
+                                                                    <ul>
+                                                                                                                    <li>
+                                            <a class="ripple" href="/ua/uah/numismatic-products/souvenier-coins">
+                                                <i class="fa fa-angle-right"></i>
+                                                                                                    Каталог нумізматичної продукції
+                                                                                            </a>
+                                        </li>
+                                                                        </ul>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/uah/bullion-coins">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Інвестиційні монети
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/ukrayinska-pamyatna-moneta-krayina-supergeroyiv-dyakuyemo-medikam-stala-naynadihayuchoyu-monetoyu-za-pidsumkami-mijnarodnogo-konkursu-moneta-roku" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_moneta-roku-2025.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_moneta-roku-2025.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>27 серп. 2025 11:16</time>
+                                                                    </div>
+                                <p class="title">Українська пам’ятна монета &quot;Країна супергероїв. Дякуємо медикам!&quot; стала найбільш надихаючою за підсумками міжнародного конкурсу “Монета року”</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+        <li class="">
+        <button
+            type="button"
+            class="ripple"
+            aria-label="Показати підменю Новини"
+            aria-haspopup="menu"
+            aria-expanded="false"
+            aria-controls="menu-9"
+        >
+                            Новини
+                    </button>
+
+        <div class="submenu-wrapper" id="menu-9">
+            <div class="submenu">
+                <a
+                    class="ripple submenu-link"
+                    href="/ua/news"
+                >
+                    <i class="fa fa-angle-right"></i><span class="submenu-title">Новини<span>
+                </a>
+                <div class="row">
+                                                                                            <div class="col-md-4">
+                            <ul class="separated">
+                                                                                    <li>
+                                <a class="ripple" href="/ua/news/all">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Усі новини
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/news/news">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Новини
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/news/press">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Повідомлення
+                                                                    </a>
+                                                            </li>
+                                                                                                                                                    </ul></div><div class="col-md-4"><ul class="separated">
+                                                        <li>
+                                <a class="ripple" href="/ua/news/video">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Відеохаб
+                                                                    </a>
+                                                            </li>
+                                                                                                                <li>
+                                <a class="ripple" href="/ua/news/direct-speech">
+                                    <i class="fa fa-angle-right"></i>
+                                                                            Пряма мова
+                                                                    </a>
+                                                            </li>
+                                                                                </ul>
+                        </div>
+                                        <div class="col-md-4">
+                        <div class="post-item">
+                                                                                                                    
+                                                        <a href="/ua/news/all/mapa-viddilen-mereji-power-banking-teper-u-diyi" class="navbar-post">
+                                <div class="image">
+                                                                                                                                                            <picture>
+                                                <source type="image/webp" srcset="/admin_uploads/article/1280x720_POWER-BANKING+DIYA_2024-12.jpg.webp?v=14">
+                                                <img src="/admin_uploads/article/1280x720_POWER-BANKING+DIYA_2024-12.jpg?v=14" alt=""/>
+                                            </picture>
+                                                                                                            </div>
+
+                                <div class="mark">
+                                    <i class="fa fa-clock-o"></i>
+                                                                            <time>9 груд. 2024 13:15</time>
+                                                                    </div>
+                                <p class="title">Мапа відділень мережі POWER BANKING тепер у Дії</p>
+                            </a>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+
+                        <div class="navbar-search">
+                            <a href="#" class="search-button ripple" id="header-search-button" aria-label="Пошук по сайту"
+                                role="button"
+                                aria-expanded="false"
+                                aria-haspopup="true"
+                            >
+                                <i class="fa fa-search"></i>
+                            </a>
+                            <form name="full_search" id="header-search-form"
+                                class="search-form" method="post"
+                                                                action="/search/"
+                            >
+                                <input name="search" id="header-search-field"
+                                    type="search" class="search-field mtr"
+                                    placeholder="Що шукаєте?"
+                                >
+                                <input name="type[all]" type="hidden" data-checkbox-type="all" value="1" checked="">
+                            </form>
+                        </div>
+
+                        <div class="navbar-tools dropdown menu-tools">
+                            <a class="toggle ripple" href="#" role="button" aria-label="Додаткове меню">
+                                <div class="icon-more">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                            </a>
+                            <ul class="collection allign-right">
+                                                                                    <li class="" style="position: relative;">
+        <a href="/ua/events"><i class="fa fa-calendar-o"></i>                Календар подій
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/faq"><i class="fa fa-question-circle"></i>                Питання та відповіді
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/research"><i class="fa fa-tasks"></i>                Дослідження
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/publications"><i class="fa fa-paste"></i>                Публікації
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/legislation"><i class="fa fa-gavel"></i>                Нормативна база
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/bank-id-nbu"><object type="image/svg+xml" data="/frontend/content/BankID.svg?v=14"
+                        style="margin-bottom: -0.2rem; height: 15px; margin-right: .5rem; width: 15px;"
+                        aria-hidden="true"
+                        tabindex="-1"></object>                BankID НБУ
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/tariffs-services"><i class="fa fa-file-text"></i>                Тарифи та послуги
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/open-data"><i class="fa fa-area-chart"></i>                Відкриті дані
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/contacts"><i class="fa fa-phone"></i>                Контакти
+                    </a>
+    </li>
+        <li class="" style="position: relative;">
+        <a href="/ua/site"><i class="fa fa-sitemap"></i>                Мапа сайту
+                    </a>
+    </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="menu-drawer" class="menu-drawer white-bg show-md-under">
+    <nav class="nav-side">
+        <ul class="nav nav-col">
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/about">
+                                            Про Національний банк
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/about/structure">
+                                                            Організаційна структура
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/recruiting">
+                                                            Кар’єра
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/brand">
+                                                            Бренд Національного банку України
+                                                        </a>
+                                                    </li>
+                                            <li class="parent" >
+                            <a class="ripple" href="/ua/about/council">
+                                                            Рада Національного банку
+                                                        </a>
+                                                            <span class="toggle"></span>
+                                <ul>
+                                                                    <li >
+                                        <a class="ripple" href="/ua/about/develop-strategy/develop-strategy2023">
+                                                                                    Стратегія розвитку фінансового сектору України до 2025 року (припинена у 2023 році)
+                                                                                </a>
+                                    </li>
+                                                                </ul>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/international">
+                                                            Міжнародне співробітництво
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/nbu-history">
+                                                            Історія центрального банку
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/taxonomy">
+                                                            Таксономія МСФЗ
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/knpf">
+                                                            Корпоративний недержавний пенсійний фонд
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/about/strategy-fin-literacy">
+                                                            Національна стратегія розвитку фінансової грамотності до 2030 року
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/consumer-protection">
+                                            Захист прав споживачів
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/consumer-protection/non-bank-customers">
+                                                            Для клієнтів небанківських установ
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/consumer-protection/bezlicenzijna-djalnist-fraud">
+                                                            Попередження: безліцензійна діяльність
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/monetary">
+                                            Монетарна політика
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/monetary/about">
+                                                            Про монетарну політику
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/monetary/tools">
+                                                            Інструменти монетарної політики
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/monetary/archive-rish">
+                                                            Облікова ставка Національного банку
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/monetary/stages">
+                                                            Як ухвалюються рішення з монетарної політики
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/monetary/schedule">
+                                                            Графік засідань і основних публікацій з монетарної політики
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/monetary/report">
+                                                            Інфляційний звіт
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/stability">
+                                            Фінансова стабільність
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/stability/about">
+                                                            Про фінансову стабільність
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/stability/report">
+                                                            Звіт про фінансову стабільність
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/stability/macro">
+                                                            Макропруденційна політика
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/stability/radafinstab">
+                                                            Рада з фінансової стабільності
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/stability/mortgage">
+                                                            Про іпотечне кредитування
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/supervision">
+                                            Нагляд
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/about">
+                                                            Банківський нагляд
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/registration">
+                                                            Ліцензування банків
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/licensing-nonbanking">
+                                                            Ліцензування небанківських установ
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/payment-services">
+                                                            Авторизація учасників платіжного ринку
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/nonbanks">
+                                                            Нагляд за ринком небанківських фінансових послуг
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/regulation-nonbank-fs-market">
+                                                            Регулювання ринку небанківських фінансових послуг
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/reorganizat-liquidat">
+                                                            Реорганізація, припинення та ліквідація
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/monitoring">
+                                                            Фінансовий моніторинг
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/suptech-regtech">
+                                                            Впровадження cуптех та регтех
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/supervision/sandbox-nbu">
+                                                            Регуляторна платформа
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/payments">
+                                            Платежі та розрахунки
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/sep">
+                                                            Система електронних платежів
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/nocash">
+                                                            Безготівкові розрахунки
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/oversite">
+                                                            Оверсайт інфраструктур фінансового ринку
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/prostir">
+                                                            НПС &quot;ПРОСТІР&quot;
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/project-iso20022">
+                                                            Упровадження стандарту ISO 20022
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/ips">
+                                                            Миттєві платежі
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/use-qr">
+                                                            QR-код для передавання реквізитів
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/e-hryvnia">
+                                                            Е-гривня
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/payments/open-banking">
+                                                            Відкритий банкінг
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/markets">
+                                            Фінансові ринки
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li class="parent" >
+                            <a class="ripple" href="/ua/markets/about">
+                                                            Про фінансові ринки
+                                                        </a>
+                                                            <span class="toggle"></span>
+                                <ul>
+                                                                    <li >
+                                        <a class="ripple" href="/ua/markets/about/mmcg">
+                                                                                    Контактна група грошового та валютного ринків
+                                                                                </a>
+                                    </li>
+                                                                </ul>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/markets/money-market">
+                                                            Грошовий ринок
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/markets/ovdp">
+                                                            Ринок капіталів
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/markets/currency-market">
+                                                            Валютний ринок
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/markets/liberalization">
+                                                            Валютні обмеження та курсова політика
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/markets/international-reserves-allinfo">
+                                                            Міжнародні резерви
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/statistic">
+                                            Статистика
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/nbustatistic">
+                                                            Статистика Національного банку
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/nbureport">
+                                                            Організація статистичної звітності
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/nbusurvey">
+                                                            Кон&#039;юнктурні опитування
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/macro-indicators">
+                                                            Макроекономічні показники
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/sdds">
+                                                            Спеціальний стандарт поширення даних
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/sector-financial">
+                                                            Статистика фінансового сектору
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/sector-external">
+                                                            Статистика зовнішнього сектору
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/statistic/supervision-statist">
+                                                            Наглядова статистика
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/uah">
+                                            Гривня
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/uah/obig-banknote">
+                                                            Про банкноти
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/uah/obig-coin">
+                                                            Про монети
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/uah/uah-history">
+                                                            Історія української гривні
+                                                        </a>
+                                                    </li>
+                                            <li class="parent" >
+                            <a class="ripple" href="/ua/uah/numismatic-products">
+                                                            Нумізматична продукція
+                                                        </a>
+                                                            <span class="toggle"></span>
+                                <ul>
+                                                                    <li >
+                                        <a class="ripple" href="/ua/uah/numismatic-products/souvenier-coins">
+                                                                                    Каталог нумізматичної продукції
+                                                                                </a>
+                                    </li>
+                                                                </ul>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/uah/bullion-coins">
+                                                            Інвестиційні монети
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                        <li class="parent" >
+                    <a class="ripple" href="/ua/news">
+                                            Новини
+                                        </a>
+                                    <span class="toggle"></span>
+                    <ul>
+                                            <li >
+                            <a class="ripple" href="/ua/news/all">
+                                                            Усі новини
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/news/news">
+                                                            Новини
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/news/press">
+                                                            Повідомлення
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/news/video">
+                                                            Відеохаб
+                                                        </a>
+                                                    </li>
+                                            <li >
+                            <a class="ripple" href="/ua/news/direct-speech">
+                                                            Пряма мова
+                                                        </a>
+                                                    </li>
+                                        </ul>
+                                </li>
+                    </ul>
+    </nav>
+</div>
+
+                <section>
+            <div class="container fit">
+            </div>
+        </section>
+    </header>
+    <main id="mainContent">
+        <h1 class="visually-hidden">Не знайдено</h1>
+                <!-- <div class="mt2"></div> -->
+        <div class="container fit">
+                <div class="container fit pt2 pb2">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="text404">404</div>
+            </div>
+            <div class="col-md-8">
+                <div class="box2">
+                    <p class="mb1" style="font-size:1.1rem;line-height:1.2rem;font-weight:300;">Перепрошуємо, на жаль, такої сторінки немає в нашій базі даних.</p>
+                    <p class="mb1" style="font-size:1.1rem;line-height:1.2rem;font-weight:300;">Ймовірно, ви потрапили на посилання, що веде на сторінку, якої не існує.</p>
+
+                    <div class="form-group widget-search">
+                        <div class="input-wrapper">
+                            <form name="full_search" id="header-search-form" class="search-form" method="post" action="/search/">
+                                <input name="search" type="text" class="mt full pl0" placeholder="Скористатися пошуком">
+                                <input name="type[all]" type="hidden" data-checkbox-type="all" value="1" checked="">
+                                <div class="inside">
+                                    <span class="input-icon"><i class="fa fa-search"></i></span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                    <p class="mb1" style="font-size:1.1rem;line-height:1.2rem;font-weight:300;">або</p>
+
+                    <div class="btn-group">
+                        <a href="/contacts" class="btn up btn-tr btn-grey ripple">Повідомити про помилку <i class="fa fa-angle-right"></i></a>
+                        <a href="/" class="btn up btn-tr btn-primary ripple">Перейти на головну сторінку <i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    </main>
+    <footer>
+        <section class="footer-mini">
+    <div class="row footer">
+        <div class="col-md-4 hide-sm">
+                        <a class="image logo" href="/">
+                                <img src="/frontend/content/logo.png?v=14" alt="Логотип Національного банку України – перехід на головну сторінку">
+            </a>
+            <br>
+            <div class="copyright">
+                                    Офіційне Інтернет-представництво Національного банку України <br />
+                                    Усіх прав дотримано &copy; 1991&mdash;2025
+            </div>
+            <div class="links test_mode">
+                                    <a href="/ua/contacts">Контакти</a>
+                                <br />
+                                    <a href="/ua/useterms">Правила використання та політика конфіденційності</a>
+                            </div>
+        </div>
+        <div class="col-md-7 footer-right">
+            <nav aria-label="Нижнє меню">
+                <ul class="footer__nav">
+                                    <li class="footer__nav-item"><a href="/ua/about/structure#orgchart">Організаційна структура</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/council">Рада Національного банку</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/strategy">Стратегія Національного банку</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/brand">Бренд Національного банку</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/international">Міжнародне співробітництво</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/develop-strategy">Розвиток фінансового сектору</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/strategy-fin-literacy">Стратегія фінансової грамотності</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/taxonomy">Таксономія МСФЗ</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/legislation">Нормативна база</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/regulatory-activity">Нормотворча діяльність</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/tariffs-services">Тарифи та послуги</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/sale-assets">Продаж активів</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/recruiting">Кар’єра</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/recruiting/stop-corrup">Запобігання корупції</a></li>
+                                    <li class="footer__nav-item"><a href="/ua/about/lp-nbu">Мікросайти</a></li>
+                                </ul>
+            </nav>
+        </div>
+
+        <div class="col-md-4 hide-md">
+            <a class="image logo" href="/">
+                <img src="/frontend/content/logo.png?v=14" alt="Logo">
+            </a>
+            <br>
+            <div class="links">
+                                    <a href="/contacts">Контакти</a>
+                                <br />
+                                    <a href="/useterms">Правила використання та політика конфіденційності</a>
+                            </div>
+            <div class="copyright">
+                                    Офіційне Інтернет-представництво Національного банку України <br />
+                                    Усіх прав дотримано &copy; 1991&mdash;2025
+            </div>
+        </div>
+    </div>
+</section>
+            </footer>
+    <page id="print"></page>
+        <script type="text/javascript">var DTS_initial = 'no data in session';</script>
+
+    <!-- Google Icons -->
+    <!-- https://design.google.com/icons/ -->
+            <script src="/frontend/dist/js/vendor.min.js?v=14" type="text/javascript"></script>
+    <script src="/frontend/dist/js/scripts.min.js?v=14" type="text/javascript"></script>
+
+            <script src="/frontend/dist/js/index.eeadbb34b22151666920.js"></script>
+        <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId            : '1971508842906558',
+                autoLogAppEvents : true,
+                xfbml            : true,
+                version          : 'v3.1'
+            });
+        };
+
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97f0abe5bc94bbc6',t:'MTc1Nzg2MTE2MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
