@@ -1,1 +1,12 @@
-<error>invalid request</error>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0;url='/ua/NBU_IncomeExpensesBanks?date=202408&amp;json&amp;time_period=m'" />
+
+        <title>Redirecting to /ua/NBU_IncomeExpensesBanks?date=202408&amp;json&amp;time_period=m</title>
+    </head>
+    <body>
+        Redirecting to <a href="/ua/NBU_IncomeExpensesBanks?date=202408&amp;json&amp;time_period=m">/ua/NBU_IncomeExpensesBanks?date=202408&amp;json&amp;time_period=m</a>.
+    </body>
+</html>
